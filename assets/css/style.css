@@ -86,24 +86,25 @@ p {
     background-color: #2589bd;
 }
 
-.benefit {
+.benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* renamed div classes in div-content sections into the same class as midcontent to format all together as one style */
-.midcontent {
+#search-engine-optimization,
+#online-reputation-management,
+#social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -112,11 +113,11 @@ p {
     color: #ffffff;
 }
 
-.midcontent img {
+.content img {
     max-height: 200px;
 }
 
-.midcontent h2 {
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
