@@ -70,6 +70,7 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    /* height: 33.33%; */
 }
 
 /* all image tags in div class content */
@@ -98,12 +99,14 @@ p {
 /* img tags in the sections, positioning to the left */
 #search-engine-optimization img,
 #social-media-marketing img{
+    max-height: 200px;
     float: left;
     margin-right: 25px;  
 }
 
 /* img tag to positioning to the right */
 #online-reputation-management img {
+    max-height: 200px;
     float: right;
     margin-left: 25px;
 }
