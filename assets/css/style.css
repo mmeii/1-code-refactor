@@ -98,7 +98,7 @@ p {
 
 /* img tags in the sections, positioning to the left */
 #search-engine-optimization img,
-#social-media-marketing img{
+#social-media-marketing img {
     max-height: 200px;
     float: left;
     margin-right: 25px;  
@@ -144,7 +144,7 @@ p {
     color: #ffffff;
 }
 
-/* footer
+/* footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -152,6 +152,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
-} */
+}
